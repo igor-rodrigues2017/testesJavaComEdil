@@ -8,4 +8,6 @@ public class Aplicacao {
         Integer seculo = new Calculadora().calculaSeculo(ano);
         System.out.println(seculo);
     }
+
+
 }
